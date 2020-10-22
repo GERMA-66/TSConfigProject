@@ -1,0 +1,12 @@
+﻿{
+	"compilerOptions": {
+		"target": "es5",
+		"noImplicitAny": false,
+		"sourceMap": false,
+		"declaration": true,
+		"outFile": "../libs/game_config/game_config.js"
+	},
+	"include": [
+		"src"
+	]
+}

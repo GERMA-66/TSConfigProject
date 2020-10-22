@@ -1,0 +1,28 @@
+﻿<setting>
+  <pathSettings>
+    <!--Excel 路径 导出的txt路径-->
+    <ExcelPath>../数据表格/</ExcelPath>
+    <TxtPath>../TabelTest/resource/txtConfig/</TxtPath>
+    <checkData>false</checkData>
+    <packageMode>true</packageMode>
+    <compress>true</compress>
+
+    <!--总路径, Base路径, 库路径, 可执行文件路径, Class路径， 附加内容, 命名空间-->
+    <CodePath>../TabelTest/game_config/</CodePath>
+    <CodeBasePath>../TabelTest/game_config/src/</CodeBasePath>
+    <CodeLibPath>../TabelTest/libs/game_config/</CodeLibPath>
+    <ExePath>../TabelTest/</ExePath>
+    <CodeClassPath>../TabelTest/src/tableClass/</CodeClassPath>
+    <CodeAppend></CodeAppend>
+    <CodeNamespace>game_config</CodeNamespace>
+
+  </pathSettings>
+
+  <excelSettings>
+  
+    <add key="单位表.xlsx" value="UnitCFG"/>
+    <add key="导表测试.xlsx" value="TestCFG"/>
+    <add key="导表测试 - 副本.xlsx" value="Test1CFG"/>
+    
+  </excelSettings>
+</setting>

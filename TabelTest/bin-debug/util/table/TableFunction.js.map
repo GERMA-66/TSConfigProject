@@ -1,0 +1,1 @@
+{"version":3,"file":"TableFunction.js","sourceRoot":"","sources":["../../../src/util/table/TableFunction.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH;;GAEG;AACH,kBAAkB,IAAY,EAAE,EAAO;IACnC,MAAM,CAAC,gBAAgB,CAAC,QAAQ,CAAC,WAAW,CAAC,IAAI,EAAE,EAAE,CAAC,CAAC;AAC3D,CAAC;AAED;;GAEG;AACH,mBAAmB,IAAY;IAC3B,MAAM,CAAC,gBAAgB,CAAC,QAAQ,CAAC,YAAY,CAAC,IAAI,CAAC,CAAC;AACxD,CAAC"}
