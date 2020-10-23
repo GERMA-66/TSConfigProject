@@ -1,4 +1,7 @@
-
+/**
+ * 数据表管理
+ * Created By WZH
+ */
 class TableMainManager {
 
 	private static _instance: TableMainManager;
